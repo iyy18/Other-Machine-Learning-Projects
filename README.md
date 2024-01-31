@@ -1,4 +1,4 @@
 # Machine Learning Projects
-- NLP (Natural language processing)
 - CLV (Customer lifetime value)
+- NLP (Natural language processing)
 - Recommender Systems
