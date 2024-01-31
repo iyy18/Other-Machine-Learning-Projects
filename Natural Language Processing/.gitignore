@@ -1,2 +1,22 @@
+# Jupyter Notebook
 .ipynb_checkpoints
+jupyter_notebooks/.ipynb_checkpoints/
+jupyter_notebooks/*-checkpoint.ipynb
+# JupyterLab
+.jupyterlab-debug.log
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+# Data files
+data/*
+!data/.gitkeep
+
+# Environment variables
+.env
+# VS Code settings
+.vscode/
+# Virtualenv
+venv/
+*.venv
+env/
 .DS_Store
